@@ -136,7 +136,7 @@ hist(dados$Preco_Cafe)
 
 
     
-![png](output_8_0.png)
+![png](Figures/output_8_0.png)
     
 
 
@@ -151,7 +151,7 @@ hist(dados$Preco_Cafe,
 
 
     
-![png](output_9_0.png)
+![png](Figures/output_9_0.png)
     
 
 
@@ -174,7 +174,7 @@ hist(dados$Preco_Cafe,
 
 
     
-![png](output_11_0.png)
+![png](Figures/output_11_0.png)
     
 
 
@@ -200,7 +200,7 @@ plot(y = dados$Vendas_Cafe,
 
 
     
-![png](output_14_0.png)
+![png](Figures/output_14_0.png)
     
 
 
@@ -222,7 +222,7 @@ grid()
 
 
     
-![png](output_15_0.png)
+![png](Figures/output_15_0.png)
     
 
 
@@ -251,7 +251,7 @@ grid()
 
 
     
-![png](output_17_0.png)
+![png](Figures/output_17_0.png)
     
 
 
@@ -276,7 +276,7 @@ plot(variavel) #grafico com a qtde abaixo e acima da media
 
 
     
-![png](output_20_0.png)
+![png](Figures/output_20_0.png)
     
 
 
@@ -302,7 +302,7 @@ boxplot(dados$Vendas_Cafe)
 
 
     
-![png](output_23_0.png)
+![png](Figures/output_23_0.png)
     
 
 
@@ -317,7 +317,7 @@ boxplot(dados$Preco_Cafe)
 
 
     
-![png](output_25_0.png)
+![png](Figures/output_25_0.png)
     
 
 
@@ -332,7 +332,7 @@ boxplot(dados$Vendas_Cafe~dados$Promocao)
 
 
     
-![png](output_27_0.png)
+![png](Figures/output_27_0.png)
     
 
 
@@ -351,6 +351,6 @@ boxplot(dados$Vendas_Cafe~dados$Promocao,
 
 
     
-![png](output_28_0.png)
+![png](Figures/output_28_0.png)
     
 
